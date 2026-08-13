@@ -154,6 +154,8 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [HUD](https://github.com/hud-evals/hud-python) - Open-source SDK for building browser and computer-use RL environments to evaluate and train web agents, with task-based verifiable rewards runnable as evals or RL training across any model. ![GitHub Repo stars](https://img.shields.io/github/stars/hud-evals/hud-python?style=social)
 - [Webfuse](https://www.webfuse.com) - Configurable web proxy and browser-as-a-service for deploying and operating AI agents in a sandbox layer on top of any third-party website, using client-side extensions and without source-code access.
 
+- [Taskprint](https://github.com/AMallur/TaskPrint) - Open-source Python framework that converts browser event traces into inspectable workflows for web agents, with outcome scoring and constraint-aware execution. ![GitHub Repo stars](https://img.shields.io/github/stars/AMallur/TaskPrint?style=social)
+
 ## AI Web Scrapers/Crawlers
 
 Web crawlers & scrapers that leverage AI to navigate websites and extract content.
